@@ -30,7 +30,7 @@ const ETHERSCAN_API_KEY =
 
 const config: HardhatUserConfig = {
   solidity: "0.7.3",
-  defaultNetwork: "mainnet",
+  defaultNetwork: "local",
   networks: {
     local: {
       url: "http://127.0.0.1:8545",
