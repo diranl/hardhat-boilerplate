@@ -1,3 +1,7 @@
+## Goal
+
+The goal of this repository is quickstart for Solidity development using Hardhat. It come pre-configured with the essentials so that a developer can just start building without worrying about the setup.
+
 ## Boilerplate
 
 This boilerplate hardhat repository has been created by the following commands:
