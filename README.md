@@ -25,3 +25,5 @@ Here are the prereqs to get started with the project:
 
 - Deploy locally: `hh run scripts/sample-script.ts`
 - Run Tests: `hh test`
+- Deploy to Rinkeby: `hh run scripts/sample-script.ts --network rinkeby`
+  - Push ABI to Etherscan: `hh verify [DEPLOYED_CONTRACT_ADDRESS] --network rinkeby`
